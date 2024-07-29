@@ -10,16 +10,11 @@ import { es as esDefault, en as enDefault } from "./lib/multi-language/_default.
 import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 //Aqui se agrega los numeros que seran owners
 global.owner = [
-["595976126756", '𝙊𝙬𝙣𝙚𝙧 👑', true], //𝙏𝙝𝙚-𝙈𝙞𝙠𝙪𝘽𝙤𝙩-𝙈𝘿𝙑5 👑
-["595986224522"],
-["595987138033"],
-["595982216131"],
-["595994836199"],
-["5213339577315"],
-["595994825505"]]
+["5594991581299", '𝙊𝙬𝙣𝙚𝙧 👑', true], //𝙏𝙝𝙚-𝙈𝙞𝙠𝙪𝘽𝙤𝙩-𝙈𝘿𝙑5 👑
+["5594991299537"],
 
-global.mods = []
-global.prems = []
+global.mods = [Leozinho]
+global.prems = [hellen bot]
 // ❰❰ RENDER ❱❱
 //Kurt18: Obtener el código QR por la URL del Hosting
 global.obtenerQrWeb = 0; //Solo valores: 1 o 0
